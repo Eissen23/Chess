@@ -1,7 +1,13 @@
 # Chess
 in Python
 
-mới copy trên youtube đến video thứ 2
+đang copy nốt dở video thứ 9
+đã xem qua 16 video làm cờ vua
+
+thuật toán sử dụng trong quá trình làm: 
+-thuật toán phân lớp Naive Bayes
+-(sắp tới copy nốt) thuật toán Negamax - biến thể đơn giản của thuật toán Minimax
+
 
 link youtube: https://www.youtube.com/watch?v=EnYui0e73Rs&list=PLBwF487qi8MGU81nDGaeNE1EnNEPYWKY_&index=1
 
