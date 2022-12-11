@@ -2,10 +2,13 @@
 in Python
 
 đang copy nốt dở video thứ 9
+
 đã xem qua 16 video làm cờ vua
 
 thuật toán sử dụng trong quá trình làm: 
+
 -thuật toán phân lớp Naive Bayes
+
 -(sắp tới copy nốt) thuật toán Negamax - biến thể đơn giản của thuật toán Minimax
 
 
