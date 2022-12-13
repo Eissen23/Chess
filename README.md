@@ -1,17 +1,17 @@
 # Chess
 in Python
 
-đang copy nốt dở video thứ 9
-
-đã xem qua 16 video làm cờ vua
+đã copy hết 16 video 
 
 
+thuật toán sử dụng trong quá trình làm: thuật toán Minmax
+-không đệ quy
+-có đệ quy
+-Nega Max (Negative Max)
+-Nega Max cắt tỉa Alpha - Beta
 
-thuật toán sử dụng trong quá trình làm: 
 
--thuật toán phân lớp Naive Bayes
-
--(sắp tới copy nốt) thuật toán Negamax - biến thể đơn giản của thuật toán Minimax
+chi tiết hơn về Nega Max: https://viblo.asia/p/thuat-toan-negamax-bien-the-toi-gian-cua-minimax-gDVK2QEm5Lj
 
 
 
