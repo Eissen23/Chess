@@ -226,4 +226,3 @@ def scoreboard(gs):
                     score -= pieceScore[square[1]] + piecePostionScore * .1
         
         return score
-
