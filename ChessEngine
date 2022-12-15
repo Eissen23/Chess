@@ -87,7 +87,7 @@ class GameState():
     """
     Undo the last move made
     """
-    def undoMovve(self):
+    def undoMove(self):
         if len(self.movelog) != 0: #make sure that there is a move to undo
             move = self.movelog.pop()
             self.board[move.startRow][move.startCol] = move.pieceMoved #put piece on starting square
