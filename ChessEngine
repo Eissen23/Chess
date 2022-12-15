@@ -81,8 +81,8 @@ class GameState():
                   
         #update castling rights
         self.updateCastleRights(move)
-        self.castleRightsLog.append(CastleRights(self.whiteCastleKingside.wks, self.blackCastleKingside.bks,
-                                                 self.whiteCastleQueenside.wqs, self.blackCastleQueenside.bqs))
+        self.castleRightsLog.append(CastleRights(self.currentCastlingRight.wks, self.currentCastlingRight.bks,
+                                                   self.currentCastlingRight.wqs, self.currentCastlingRight.bqs))
 
     """
     Undo the last move made
